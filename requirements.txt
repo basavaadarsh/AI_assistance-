@@ -1,5 +1,5 @@
-langchain-community
-langchain-experimental
+langchain_community 
+langchain_experimental
 numpy
 openai
 pandas
