@@ -1,7 +1,7 @@
+langchain-community
 numpy
 openai
 pandas
 python-dotenv
 seaborn
 streamlit
-langchain-community
